@@ -10,7 +10,7 @@ import { routers } from "./router";
  */
 import "@popperjs/core/dist/umd/popper";
 import "bootstrap/dist/css/bootstrap.min.css";
-// import "jquery/src/jquery.js";
+import "jquery/src/jquery.js";
 import "bootstrap/dist/js/bootstrap.min.js";
 
 Vue.use(VueRouter);

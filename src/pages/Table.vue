@@ -3,7 +3,7 @@
     <h1>Table page</h1>
 
     <div>
-      <table>
+      <table class="table table-hover">
         <thead>
           <tr>
             <th>#</th>
